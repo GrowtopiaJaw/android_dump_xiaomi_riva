@@ -1,0 +1,257 @@
+{
+  "S88505FC1": {
+    "call": {
+      "com.mmigroup.radiosupport.CDMA": false,
+      "com.mmigroup.radiosupport.TDCDMA": false
+    }
+  },
+  "S88505EC1": {
+    "call": {
+      "com.mmigroup.radiosupport.CDMA": false,
+      "com.mmigroup.radiosupport.TDCDMA": false
+    }
+  },
+  "S88505CC1": {
+    "call": {
+      "com.mmigroup.radiosupport.CDMA": false,
+      "com.mmigroup.radiosupport.TDCDMA": false
+    }
+  },
+  "S88505BC1": {
+    "call": {
+      "com.mmigroup.radiosupport.CDMA": false,
+      "com.mmigroup.radiosupport.TDCDMA": false
+    }
+  },
+  "call": {
+    "com.mmigroup.radiosupport.GSM": true,
+    "com.mmigroup.radiosupport.CDMA": true,
+    "com.mmigroup.radiosupport.TDCDMA": true,
+    "com.mmigroup.radiosupport.WCDMA": true,
+    "com.mmigroup.radiosupport.TDD": true,
+    "com.mmigroup.radiosupport.FDD": true
+  },
+  "mmigroupConfig": {
+    "com.mmigroup.support.statusbar": false,
+    "com.mmigroup.action.GYROSCOPE": false,
+    "isMiui": true
+  },
+  "itemConfig": {
+    "MainMicToHeadPhone": {
+      "support": true
+    },
+    "HsMicToHeadPhone": {
+      "support": true
+    },
+    "HsMicToReceiver": {
+      "support": true
+    },
+    "MainMicToReceiver": {
+      "support": true
+    },
+    "MainMicToSpeaker": {
+      "support": true
+    },
+    "HsMicToSpeaker": {
+      "support": true
+    },
+    "SubMicToReceiver": {
+      "support": true
+    },
+    "SubMicToHeadPhone": {
+      "support": true
+    },
+    "HsMicToSpeakerLeft": {
+      "support": false
+    },
+    "HsMicToSpeakerRight": {
+      "support": false
+    },
+    "Speaker": {
+      "support": true
+    },
+    "Receiver": {
+      "support": true
+    },
+    "FM": {
+      "support": true
+    },
+    "HeadSet": {
+      "support": true
+    },
+    "FrontCamera": {
+      "support": true
+    },
+    "MainCamera": {
+      "support": true
+    },
+    "Flashlight": {
+      "support": true
+    },
+    "VersionInfo": {
+      "support": true
+    },
+    "KeyPad": {
+      "support": true
+    },
+    "TouchPal": {
+      "support": true
+    },
+    "TpOpenShort": {
+      "support": true
+    },
+    "LCD": {
+      "support": true
+    },
+    "LCD_R": {
+      "support": true
+    },
+    "LCD_G": {
+      "support": true
+    },
+    "LCD_B": {
+      "support": true
+    },
+    "LCD_W": {
+      "support": true
+    },
+    "LCD_BL": {
+      "support": true
+    },
+    "Backlight": {
+      "support": true
+    },
+    "Vibrator": {
+      "support": true
+    },
+    "OTG": {
+      "support": true
+    },
+    "RTC": {
+      "support": true
+    },
+    "LED": {
+      "support": true
+    },
+    "LED_R": {
+      "support": true
+    },
+    "LED_G": {
+      "support": true
+    },
+    "LED_B": {
+      "support": true
+    },
+    "LED_RGB": {
+      "support": true
+    },
+    "Accelerometer": {
+      "support": true
+    },
+    "Accelerometer_C": {
+      "support": true
+    },
+    "Gyroscope": {
+      "support": false
+    },
+    "Gyroscope_C": {
+      "support": false
+    },
+    "Proximity": {
+      "support": true
+    },
+    "Magnetic": {
+      "support": true
+    },
+    "Optical": {
+      "support": true
+    },
+    "Hall": {
+      "support": false
+    },
+    "NFC": {
+      "support": false
+    },
+    "fingerprint": {
+      "support": false
+    },
+    "SMARTPA": {
+      "support": false
+    },
+    "Infrared": {
+      "support": true
+    },
+    "SdCard": {
+      "support": true
+    },
+    "MainSIMCard": {
+      "support": true
+    },
+    "SubSIMCard": {
+      "support": true
+    },
+    "Wlan": {
+      "support": true
+    },
+    "Bluetooth": {
+      "support": true
+    },
+    "GPS": {
+      "support": true
+    },
+    "Battery": {
+      "support": true
+    },
+    "FrontFlashLight": {
+      "support": true
+    },
+    "Pressure": {
+      "support": false
+    },
+    "CALL112": {
+      "support": true
+    },
+    "KeyPadLight": {
+      "support": true
+    },
+    "MainMic2ToHeadPhone": {
+      "support": false
+    },
+    "SubMic2ToHeadPhone": {
+      "support": false
+    },
+    "MainMic2ToSpeaker": {
+      "support": false
+    },
+    "MainMic2ToReceiver": {
+      "support": false
+    },
+    "SubMicToSpeaker": {
+      "support": true
+    },
+    "Orientation": {
+      "support": true
+    },
+    "MainCamera2": {
+      "support": false
+    },
+    "Flashlight2": {
+      "support": false
+    },
+    "ASDeviceInfo": {
+      "support": true
+    },
+    "ASFlashLife": {
+      "support": true
+    },
+    "ASLCDActivity": {
+      "support": true
+    },
+    "Gyroscope_MMI": {
+      "support": false
+    },
+    "Accelerometer_MMI": {
+      "support": true
+    }
+  }
+}
