@@ -124,6 +124,21 @@
       }
     },
     {
+      "showName": "MainCamera2",
+      "action": "com.mmigroup.action.MAINCAMERA",
+      "support": false,
+      "automatic": false,
+      "support_autoTest_autopass": false,
+      "paramconfig": {
+        "aftersale_autotest": "action.mi.autotest.TEST_REARSUBCAMERA",
+        "cameraId": 2,
+        "support_takepicture": true,
+        "auto_takepicture": true,
+        "is_open_flashLight": true,
+        "support_cameraCheck": true
+      }
+    },
+    {
       "showName": "MainMicToReceiver",
       "action": "com.mmigroup.action.audioloop.AUDIOLOOPBACK",
       "support": true,
@@ -177,7 +192,7 @@
       "automatic": false,
       "paramconfig": {
         "aftersale_autotest": "action.mi.autotest.TEST_HEADSET",
-        "volume_rate": 0.5,
+        "volume_rate": 0.2,
         "is_test_type_c": false,
         "key_show_name": [
           "last",

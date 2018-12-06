@@ -234,7 +234,7 @@
       "support": true,
       "automatic": false,
       "paramconfig": {
-        "volume_rate": 0.5,
+        "volume_rate": 0.2,
         "is_test_type_c": false,
         "key_show_name": [
           "start_and_stop"

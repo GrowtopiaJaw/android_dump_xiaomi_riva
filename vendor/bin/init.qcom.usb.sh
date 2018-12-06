@@ -30,6 +30,9 @@
 chown -h root.system /sys/devices/platform/msm_hsusb/gadget/wakeup
 chmod -h 220 /sys/devices/platform/msm_hsusb/gadget/wakeup
 
+debuggable=`getprop ro.debuggable`
+echo debuggable: $debuggable
+
 # Set platform variables
 if [ -f /sys/devices/soc0/hw_platform ]; then
     soc_hwplatform=`cat /sys/devices/soc0/hw_platform` 2> /dev/null
@@ -157,17 +160,17 @@ case "$usb_config" in
 					"313" | "320")
 				            #setprop persist.sys.usb.config diag,serial_smd,rmnet_ipa,adb
 							if [ -z "$debuggable" -o "$debuggable" = "1" ]; then
-								setprop persist.sys.usb.config mtp,adb
+								setprop persist.sys.usb.config adb
 							else
-								setprop persist.sys.usb.config mtp
+								setprop persist.sys.usb.config none
 							fi
 				        ;;
 				        *)
 				            #setprop persist.sys.usb.config diag,serial_smd,rmnet_qti_bam,adb
 							if [ -z "$debuggable" -o "$debuggable" = "1" ]; then
-								setprop persist.sys.usb.config mtp,adb
+								setprop persist.sys.usb.config adb
 							else
-								setprop persist.sys.usb.config mtp
+								setprop persist.sys.usb.config none
 							fi
 				        ;;
 				      esac
@@ -181,10 +184,10 @@ case "$usb_config" in
 				      setprop persist.sys.usb.config diag,serial_cdev,rmnet,dpl,adb
 			      else
 				      # setprop persist.sys.usb.config diag,serial_smd,rmnet_ipa,adb
-                      if [ -z "$debuggable" -o "$debuggable" = "1" ]; then
-                          setprop persist.sys.usb.config mtp,adb
+											if [ -z "$debuggable" -o "$debuggable" = "1" ]; then
+                          setprop persist.sys.usb.config adb
                       else
-                          setprop persist.sys.usb.config mtp
+                          setprop persist.sys.usb.config none
                       fi
 			      fi
 		      ;;

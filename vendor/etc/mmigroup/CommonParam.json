@@ -190,10 +190,40 @@
     "SubSIMCard": {
       "support": true
     },
+    "DualSIMCard": {
+      "support": true
+    },
     "Wlan": {
       "support": true
     },
+    "WlanAP": {
+      "support": true,
+      "oldAct": [
+        "WIFI"
+      ]
+    },
+    "WlanAddress": {
+      "support": true,
+      "oldAct": [
+        "WIFI"
+      ]
+    },
     "Bluetooth": {
+      "support": true
+    },
+    "BluetoothAddress": {
+      "support": true,
+      "oldAct": [
+        "BLUETOOTH"
+      ]
+    },
+    "BluetoothDevice": {
+      "support": true,
+      "oldAct": [
+        "BLUETOOTH"
+      ]
+    },
+    "LightTEST": {
       "support": true
     },
     "GPS": {
@@ -201,6 +231,12 @@
     },
     "Battery": {
       "support": true
+    },
+    "Charge": {
+      "support": true,
+      "oldAct": [
+        "BATTERY"
+      ]
     },
     "FrontFlashLight": {
       "support": true

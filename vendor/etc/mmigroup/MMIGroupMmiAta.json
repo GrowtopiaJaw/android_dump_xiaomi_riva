@@ -343,7 +343,7 @@
       "support": true,
       "automatic": false,
       "paramconfig": {
-        "volume_rate": 0.5,
+        "volume_rate": 0.2,
         "keyCode": [
           "VOLUME_UP",
           "VOLUME_DOWN",

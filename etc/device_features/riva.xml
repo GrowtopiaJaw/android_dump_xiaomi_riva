@@ -257,4 +257,6 @@
     <bool name="support_new_silentmode">true</bool>
     <!-- device sar value -->
     <float name="device_sar">1.072</float>
+    <!--wether support ime xiaoai voice input-->
+    <bool name="surpport_ime_xiaoai_voice">true</bool>
 </features>
