@@ -1,0 +1,5 @@
+ro.product.wt.boardid=S88505GA1
+ro.miui.support_fingerprint=false
+ro.build.display.wtid.ato=SW_S88505GA1_V041_M11_XM_C3B_USRD_ATO
+ro.build.display.wtid.miui=SW_S88505GA1_V052_M11_XM_C3B_USR_MP
+ro.product.subproject=S88505GA1
