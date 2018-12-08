@@ -56,6 +56,7 @@
 
     <!-- Virtual Providers in Belgium -->
     <spn numeric="20601" condition="alpha;imsi:20601889xxxxxxx" alpha="Telenet" short="Telenet" mvno="true"/>
+    <spn numeric="20601" condition="imsi:206018017xxxxxx" alpha="Virgin Media UK" short="Virgin Media UK" mvno="true"/>
 
     <!-- Providers in France -->
     <spn numeric="20801" alpha="Orange F" short="Orange F" />
@@ -89,4 +90,7 @@
     <spn numeric="23207" condition="imsi:232077990001000~232077990025999" alpha="LiwestMobil" short="LiwestMobil" mvno="true"/>
     <spn numeric="23207" condition="imsi:2320771809xxxxx" alpha="RAPID" short="RAPID" mvno="true"/>
     <spn numeric="29340" condition="imsi:293400130xxxxxx" alpha="Hot" short="Hot" mvno="true"/>
+
+    <!-- Providers in Germany -->
+    <spn numeric="26203" alpha="o2 - de" short="o2 - de" />
 </spns>

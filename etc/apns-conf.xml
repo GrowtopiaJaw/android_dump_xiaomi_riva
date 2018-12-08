@@ -19439,6 +19439,8 @@
         mnc="025"
         apn="TATA.DOCOMO.INTERNET"
         type="default,supl"
+        protocol="IPV4V6"
+        roaming_protocol="IPV4V6"
     />
 
     <apn carrier="TataDOCOMO MMS"
@@ -19449,6 +19451,8 @@
         mmsproxy="10.124.26.94"
         mmsport="8799"
         type="mms"
+        protocol="IPV4V6"
+        roaming_protocol="IPV4V6"
     />
 
     <apn carrier="TataDOCOMO"
@@ -19456,6 +19460,8 @@
         mnc="026"
         apn="TATA.DOCOMO.INTERNET"
         type="default,supl"
+        protocol="IPV4V6"
+        roaming_protocol="IPV4V6"
     />
 
     <apn carrier="TataDOCOMO MMS"
@@ -19466,12 +19472,16 @@
         mmsproxy="10.124.26.94"
         mmsport="8799"
         type="mms"
+        protocol="IPV4V6"
+        roaming_protocol="IPV4V6"
     />
     <apn carrier="TataDOCOMO"
         mcc="405"
         mnc="027"
         apn="TATA.DOCOMO.INTERNET"
         type="default,supl"
+        protocol="IPV4V6"
+        roaming_protocol="IPV4V6"
     />
 
     <apn carrier="TataDOCOMO MMS"
@@ -19482,6 +19492,8 @@
         mmsproxy="10.124.26.94"
         mmsport="8799"
         type="mms"
+        protocol="IPV4V6"
+        roaming_protocol="IPV4V6"
     />
 
     <apn carrier="TataDOCOMO"
@@ -19489,6 +19501,8 @@
         mnc="028"
         apn="TATA.DOCOMO.INTERNET"
         type="default,supl"
+        protocol="IPV4V6"
+        roaming_protocol="IPV4V6"
     />
 
     <apn carrier="TataDOCOMO MMS"
@@ -19499,6 +19513,8 @@
         mmsproxy="10.124.26.94"
         mmsport="8799"
         type="mms"
+        protocol="IPV4V6"
+        roaming_protocol="IPV4V6"
     />
 
     <apn carrier="TataDOCOMO"
@@ -19506,6 +19522,8 @@
         mnc="029"
         apn="TATA.DOCOMO.INTERNET"
         type="default,supl"
+        protocol="IPV4V6"
+        roaming_protocol="IPV4V6"
     />
 
     <apn carrier="TataDOCOMO MMS"
@@ -19516,6 +19534,8 @@
         mmsproxy="10.124.26.94"
         mmsport="8799"
         type="mms"
+        protocol="IPV4V6"
+        roaming_protocol="IPV4V6"
     />
 
     <apn carrier="TataDOCOMO"
@@ -19523,6 +19543,8 @@
         mnc="030"
         apn="TATA.DOCOMO.INTERNET"
         type="default,supl"
+        protocol="IPV4V6"
+        roaming_protocol="IPV4V6"
     />
 
     <apn carrier="TataDOCOMO MMS"
@@ -19533,6 +19555,8 @@
         mmsproxy="10.124.26.94"
         mmsport="8799"
         type="mms"
+        protocol="IPV4V6"
+        roaming_protocol="IPV4V6"
     />
 
     <apn carrier="TataDOCOMO"
@@ -19540,6 +19564,8 @@
         mnc="031"
         apn="TATA.DOCOMO.INTERNET"
         type="default,supl"
+        protocol="IPV4V6"
+        roaming_protocol="IPV4V6"
     />
 
     <apn carrier="TataDOCOMO MMS"
@@ -19550,6 +19576,8 @@
         mmsproxy="10.124.26.94"
         mmsport="8799"
         type="mms"
+        protocol="IPV4V6"
+        roaming_protocol="IPV4V6"
     />
 
     <apn carrier="TataDOCOMO"
@@ -19557,6 +19585,8 @@
         mnc="032"
         apn="TATA.DOCOMO.INTERNET"
         type="default,supl"
+        protocol="IPV4V6"
+        roaming_protocol="IPV4V6"
     />
 
     <apn carrier="TataDOCOMO MMS"
@@ -19567,6 +19597,8 @@
         mmsproxy="10.124.26.94"
         mmsport="8799"
         type="mms"
+        protocol="IPV4V6"
+        roaming_protocol="IPV4V6"
     />
 
     <apn carrier="TataDOCOMO"
@@ -19574,6 +19606,8 @@
         mnc="033"
         apn="TATA.DOCOMO.INTERNET"
         type="default,supl"
+        protocol="IPV4V6"
+        roaming_protocol="IPV4V6"
     />
 
     <apn carrier="TataDOCOMO MMS"
@@ -19584,6 +19618,8 @@
         mmsproxy="10.124.26.94"
         mmsport="8799"
         type="mms"
+        protocol="IPV4V6"
+        roaming_protocol="IPV4V6"
     />
 
     <apn carrier="TataDOCOMO"
@@ -19591,6 +19627,8 @@
         mnc="034"
         apn="TATA.DOCOMO.INTERNET"
         type="default,supl"
+        protocol="IPV4V6"
+        roaming_protocol="IPV4V6"
     />
 
 
@@ -19602,6 +19640,8 @@
         mmsproxy="10.124.26.94"
         mmsport="8799"
         type="mms"
+        protocol="IPV4V6"
+        roaming_protocol="IPV4V6"
     />
 
     <apn carrier="TataDOCOMO"
@@ -19609,6 +19649,8 @@
         mnc="035"
         apn="TATA.DOCOMO.INTERNET"
         type="default,supl"
+        protocol="IPV4V6"
+        roaming_protocol="IPV4V6"
     />
 
 
@@ -19620,6 +19662,8 @@
         mmsproxy="10.124.26.94"
         mmsport="8799"
         type="mms"
+        protocol="IPV4V6"
+        roaming_protocol="IPV4V6"
     />
 
     <apn carrier="TataDOCOMO"
@@ -19627,6 +19671,8 @@
         mnc="036"
         apn="TATA.DOCOMO.INTERNET"
         type="default,supl"
+        protocol="IPV4V6"
+        roaming_protocol="IPV4V6"
     />
 
     <apn carrier="TataDOCOMO MMS"
@@ -19637,6 +19683,8 @@
         mmsproxy="10.124.26.94"
         mmsport="8799"
         type="mms"
+        protocol="IPV4V6"
+        roaming_protocol="IPV4V6"
     />
 
     <apn carrier="TataDOCOMO"
@@ -19644,6 +19692,8 @@
         mnc="037"
         apn="TATA.DOCOMO.INTERNET"
         type="default,supl"
+        protocol="IPV4V6"
+        roaming_protocol="IPV4V6"
     />
 
     <apn carrier="TataDOCOMO MMS"
@@ -19654,6 +19704,8 @@
         mmsproxy="10.124.26.94"
         mmsport="8799"
         type="mms"
+        protocol="IPV4V6"
+        roaming_protocol="IPV4V6"
     />
 
     <apn carrier="TataDOCOMO"
@@ -19661,6 +19713,8 @@
         mnc="038"
         apn="TATA.DOCOMO.INTERNET"
         type="default,supl"
+        protocol="IPV4V6"
+        roaming_protocol="IPV4V6"
     />
 
     <apn carrier="TataDOCOMO MMS"
@@ -19671,6 +19725,8 @@
         mmsproxy="10.124.26.94"
         mmsport="8799"
         type="mms"
+        protocol="IPV4V6"
+        roaming_protocol="IPV4V6"
     />
 
     <apn carrier="TataDOCOMO"
@@ -19678,6 +19734,8 @@
         mnc="039"
         apn="TATA.DOCOMO.INTERNET"
         type="default,supl"
+        protocol="IPV4V6"
+        roaming_protocol="IPV4V6"
     />
 
     <apn carrier="TataDOCOMO MMS"
@@ -19688,6 +19746,8 @@
         mmsproxy="10.124.26.94"
         mmsport="8799"
         type="mms"
+        protocol="IPV4V6"
+        roaming_protocol="IPV4V6"
     />
 
     <apn carrier="TataDOCOMO"
@@ -19695,6 +19755,8 @@
         mnc="040"
         apn="TATA.DOCOMO.INTERNET"
         type="default,supl"
+        protocol="IPV4V6"
+        roaming_protocol="IPV4V6"
     />
 
     <apn carrier="TataDOCOMO MMS"
@@ -19705,6 +19767,8 @@
         mmsproxy="10.124.26.94"
         mmsport="8799"
         type="mms"
+        protocol="IPV4V6"
+        roaming_protocol="IPV4V6"
     />
 
     <apn carrier="TataDOCOMO"
@@ -19712,6 +19776,8 @@
         mnc="041"
         apn="TATA.DOCOMO.INTERNET"
         type="default,supl"
+        protocol="IPV4V6"
+        roaming_protocol="IPV4V6"
     />
 
     <apn carrier="TataDOCOMO MMS"
@@ -19722,6 +19788,8 @@
         mmsproxy="10.124.26.94"
         mmsport="8799"
         type="mms"
+        protocol="IPV4V6"
+        roaming_protocol="IPV4V6"
     />
 
     <apn carrier="TataDOCOMO"
@@ -19729,6 +19797,8 @@
         mnc="042"
         apn="TATA.DOCOMO.INTERNET"
         type="default,supl"
+        protocol="IPV4V6"
+        roaming_protocol="IPV4V6"
     />
 
     <apn carrier="TataDOCOMO MMS"
@@ -19739,6 +19809,8 @@
         mmsproxy="10.124.26.94"
         mmsport="8799"
         type="mms"
+        protocol="IPV4V6"
+        roaming_protocol="IPV4V6"
     />
 
     <apn carrier="TataDOCOMO"
@@ -19746,6 +19818,8 @@
         mnc="043"
         apn="TATA.DOCOMO.INTERNET"
         type="default,supl"
+        protocol="IPV4V6"
+        roaming_protocol="IPV4V6"
     />
 
     <apn carrier="TataDOCOMO MMS"
@@ -19756,16 +19830,20 @@
         mmsproxy="10.124.26.94"
         mmsport="8799"
         type="mms"
+        protocol="IPV4V6"
+        roaming_protocol="IPV4V6"
     />
 
-    <apn carrier="TataDOCOMO"
+    <apn carrier="TATA DOCOMO"
         mcc="405"
         mnc="044"
         apn="TATA.DOCOMO.INTERNET"
         type="default,supl"
+        protocol="IPV4V6"
+        roaming_protocol="IPV4V6"
     />
 
-    <apn carrier="TataDOCOMO MMS"
+    <apn carrier="TATA DOCOMO MMS"
         mcc="405"
         mnc="044"
         apn="TATA.DOCOMO.MMS"
@@ -19773,6 +19851,8 @@
         mmsproxy="10.124.26.94"
         mmsport="8799"
         type="mms"
+        protocol="IPV4V6"
+        roaming_protocol="IPV4V6"
     />
 
     <apn carrier="TataDOCOMO"
@@ -19780,6 +19860,8 @@
         mnc="045"
         apn="TATA.DOCOMO.INTERNET"
         type="default,supl"
+        protocol="IPV4V6"
+        roaming_protocol="IPV4V6"
     />
 
     <apn carrier="TataDOCOMO MMS"
@@ -19790,6 +19872,8 @@
         mmsproxy="10.124.26.94"
         mmsport="8799"
         type="mms"
+        protocol="IPV4V6"
+        roaming_protocol="IPV4V6"
     />
 
     <apn carrier="TataDOCOMO"
@@ -19797,6 +19881,8 @@
         mnc="046"
         apn="TATA.DOCOMO.INTERNET"
         type="default,supl"
+        protocol="IPV4V6"
+        roaming_protocol="IPV4V6"
     />
 
     <apn carrier="TataDOCOMO MMS"
@@ -19807,6 +19893,8 @@
         mmsproxy="10.124.26.94"
         mmsport="8799"
         type="mms"
+        protocol="IPV4V6"
+        roaming_protocol="IPV4V6"
     />
 
     <apn carrier="TataDOCOMO"
@@ -19814,6 +19902,8 @@
         mnc="047"
         apn="TATA.DOCOMO.INTERNET"
         type="default,supl"
+        protocol="IPV4V6"
+        roaming_protocol="IPV4V6"
     />
 
     <apn carrier="TataDOCOMO MMS"
@@ -19824,6 +19914,8 @@
         mmsproxy="10.124.26.94"
         mmsport="8799"
         type="mms"
+        protocol="IPV4V6"
+        roaming_protocol="IPV4V6"
     />
 
     <apn carrier="Reliance MMS"
@@ -23716,13 +23808,21 @@
         type="default"
     />
 
-    <apn carrier="Telenor"
+    <apn carrier="internet"
         mcc="414"
         mnc="06"
         apn="internet"
         type="default"
-        protocol="IPV4V6"
-        roaming_protocol="IPV4V6"
+        protocol="IP"
+        roaming_protocol="IP"
+    />
+
+    <apn carrier="Telenor IMS"
+        mcc="414"
+        mnc="06"
+        apn="ims"
+        type="ims"
+        protocol="IP"
     />
 
     <apn carrier="Mytel"
