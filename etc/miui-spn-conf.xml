@@ -78,6 +78,9 @@
     <!-- Providers in India -->
     <spn numeric="40417,40441,40491" alpha="Aircel" short="Aircel" condition="numericSpn"/>
 
+    <!-- Providers in Myanmar-->
+    <spn numeric="41401" alpha="MPT" short="MPT" />
+
     <!-- Providers in France-->
     <spn numeric="20815" alpha="Free" short="Free" />
 
